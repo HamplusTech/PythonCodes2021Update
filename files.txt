@@ -1,0 +1,8 @@
+Hello HamplusThis is Hamplus Technologies Int'l [Hamplus Hub]
++2347063047037
+
+open()
+read()
+cloas()
+readline()
+readlines()
